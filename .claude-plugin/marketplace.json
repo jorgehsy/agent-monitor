@@ -1,0 +1,5 @@
+{
+  "name": "jorge-mods",
+  "owner": { "name": "Jorge Simoes" },
+  "plugins": [{ "name": "agent-monitor", "source": "./" }]
+}

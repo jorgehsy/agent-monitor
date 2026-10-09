@@ -1,0 +1,1 @@
+{ "name": "agent-monitor", "version": "0.2.0", "description": "Live pane of subagents with a Clawd per agent: status, model, tokens, cost and context", "types": "./types/index.d.ts" }
